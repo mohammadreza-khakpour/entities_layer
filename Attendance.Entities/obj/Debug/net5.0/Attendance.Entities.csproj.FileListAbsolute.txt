@@ -1,0 +1,15 @@
+C:\Users\s\source\repos\attendance-back\src\Attendance.Entities\bin\Debug\net5.0\Attendance.Entities.deps.json
+C:\Users\s\source\repos\attendance-back\src\Attendance.Entities\bin\Debug\net5.0\Attendance.Entities.dll
+C:\Users\s\source\repos\attendance-back\src\Attendance.Entities\bin\Debug\net5.0\ref\Attendance.Entities.dll
+C:\Users\s\source\repos\attendance-back\src\Attendance.Entities\bin\Debug\net5.0\Attendance.Entities.pdb
+C:\Users\s\source\repos\attendance-back\src\Attendance.Entities\bin\Debug\net5.0\Attendance.Infrastructure.dll
+C:\Users\s\source\repos\attendance-back\src\Attendance.Entities\bin\Debug\net5.0\Attendance.Infrastructure.pdb
+C:\Users\s\source\repos\attendance-back\src\Attendance.Entities\obj\Debug\net5.0\Attendance.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s\source\repos\attendance-back\src\Attendance.Entities\obj\Debug\net5.0\Attendance.Entities.AssemblyInfoInputs.cache
+C:\Users\s\source\repos\attendance-back\src\Attendance.Entities\obj\Debug\net5.0\Attendance.Entities.AssemblyInfo.cs
+C:\Users\s\source\repos\attendance-back\src\Attendance.Entities\obj\Debug\net5.0\Attendance.Entities.csproj.CoreCompileInputs.cache
+C:\Users\s\source\repos\attendance-back\src\Attendance.Entities\obj\Debug\net5.0\Attendance.Entities.csproj.CopyComplete
+C:\Users\s\source\repos\attendance-back\src\Attendance.Entities\obj\Debug\net5.0\Attendance.Entities.dll
+C:\Users\s\source\repos\attendance-back\src\Attendance.Entities\obj\Debug\net5.0\ref\Attendance.Entities.dll
+C:\Users\s\source\repos\attendance-back\src\Attendance.Entities\obj\Debug\net5.0\Attendance.Entities.pdb
+C:\Users\s\source\repos\attendance-back\src\Attendance.Entities\obj\Debug\net5.0\Attendance.Entities.csproj.AssemblyReference.cache
